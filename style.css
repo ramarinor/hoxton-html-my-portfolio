@@ -7,6 +7,10 @@ body {
 	font-family: sans-serif;
 }
 
+html {
+	scroll-behavior: smooth;
+}
+
 .container {
 	background-color: #fe7c61;
 	display: grid;
